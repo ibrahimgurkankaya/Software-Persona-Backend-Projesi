@@ -1,0 +1,25 @@
+{
+  "name": "taskflow-api",
+  "version": "1.0.0",
+  "description": "Gorev ve Proje Yonetim Sistemi REST API - Node.js Backend Programlama Bitirme Projesi",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "taskflow"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.3",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
