@@ -18,5 +18,25 @@
     "assignee": "musa",
     "createdAt": "2026-09-22T17:45:32.332Z",
     "updatedAt": "2026-09-22T17:45:32.332Z"
+  },
+  {
+    "id": "89673467-3aef-479b-ac07-62b0d316a871",
+    "title": "Backend API tasarla",
+    "description": "TaskFlow REST API endpointlerini tasarla",
+    "status": "pending",
+    "priority": "high",
+    "assignee": "musa",
+    "createdAt": "2026-10-18T08:02:42.738Z",
+    "updatedAt": "2026-10-18T08:02:42.738Z"
+  },
+  {
+    "id": "df80011b-a9cb-4f4a-bd93-044bf70a0612",
+    "title": "Backend API tasarla",
+    "description": "TaskFlow REST API endpointlerini tasarla",
+    "status": "pending",
+    "priority": "high",
+    "assignee": "musa",
+    "createdAt": "2026-10-18T08:03:00.366Z",
+    "updatedAt": "2026-10-18T08:03:00.366Z"
   }
 ]
