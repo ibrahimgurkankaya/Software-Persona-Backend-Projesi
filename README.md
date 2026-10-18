@@ -146,6 +146,16 @@ ederek tüm endpointleri hazır istekler ile test edebilirsiniz.
    çalışıyorsa güncelleyin.
 3. Sunucuyu `npm start` ile çalıştırın ve istekleri sırasıyla çalıştırın.
 
+### Test Ekran Görüntüleri
+
+**Create Task — başarılı (201 Created)**
+
+![Create Task başarılı](docs/screenshots/create-task-success-201.jpg)
+
+**Create Task — geçersiz veri (400 Bad Request)**
+
+![Create Task geçersiz veri](docs/screenshots/create-task-invalid-400.jpg)
+
 ## Dokümanlar
 
 - [docs/PROJE_TANITIMI.md](docs/PROJE_TANITIMI.md) — Amaç, senaryo, sistem özeti
